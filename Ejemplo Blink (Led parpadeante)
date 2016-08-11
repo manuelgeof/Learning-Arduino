@@ -1,0 +1,7 @@
+En esta ocación veremos cómo hacer que un led parpadee con arduino, es uno de los ejemplos más sencillos que hay.
+Se utilizarán los siguientes componentes: 
+-Arduino UNO
+-LED de cualquier color
+-Resistencia (dependera del tipo de LED que usemos)
+-Protoboard
+-Jumpers
